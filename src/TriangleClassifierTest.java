@@ -9,6 +9,7 @@ import java.io.*;
 
 public class TriangleClassifierTest  {
 
+/*    
     @Test
     public void testValidTriangle() {
     	assertEquals(true, TriangleClassifier.isValidTriangle(60,60,60));
@@ -107,5 +108,5 @@ public class TriangleClassifierTest  {
         assertEquals("INVALID", TriangleClassifier.getClassification(0, 60, 10));        
     }
     
-   
+ */
 }
